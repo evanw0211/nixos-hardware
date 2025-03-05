@@ -2,12 +2,12 @@
 
 {
   imports = [
-    ../../../common/cpu/amd
-    ../../../common/cpu/amd/pstate.nix
-    ../../../common/gpu/amd
-    ../../../common/gpu/nvidia
-    ../../../common/pc/laptop
-    ../../../common/pc/laptop/ssd
+    ../../../../../common/cpu/amd
+    ../../../../../common/cpu/amd/pstate.nix
+   ../../../../../common/gpu/amd
+    ../../../../../common/gpu/nvidia
+    ../../../../../common/pc/laptop
+    ../../../../../common/pc/laptop/ssd
   ];
 
   # Use latest LTS kernel for more Raphael fixes
