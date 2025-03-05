@@ -362,6 +362,7 @@
         common-pc-laptop-hdd = import ./common/pc/laptop/hdd;
         common-pc-laptop-ssd = import ./common/pc/ssd;
         common-pc-ssd = import ./common/pc/ssd;
+colorful-colorfire-moew-r16-24h = import ./colorful/colorfire/moew/r16/24h;
       };
   };
 }
