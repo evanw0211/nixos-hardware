@@ -20,7 +20,7 @@
 
   hardware.nvidia = {
       modesetting.enable = lib.mkDefault true;
-      powerManagement.enable = lib.mkDefault false;
+      powerManagement.enable = lib.mkDefault true;
       powerManagement.finegrained = lib.mkDefault false;
       open = lib.mkDefault true;
       prime = {
